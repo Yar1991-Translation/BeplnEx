@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TheOtherRolesEdited",
+    "description": "由TheOtherRoles v4.7.0版本进行分支",
+    "repo": "XtremeWave/TheOtherRolesEdited"
+  },
+  {
+    "name": "BetterCrewlink",
+    "description": "与 Crewlink 兼容的语音聊天模组",
+    "repo": "OhMyMod/BetterCrewlink"
+  },
+  {
+    "name": "FinalSuspect",
+    "description": "原版体验的终极《Among Us》模组",
+    "repo": "XtremeWave/FinalSuspect"
+  }
+]
