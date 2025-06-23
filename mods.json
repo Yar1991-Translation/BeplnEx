@@ -7,11 +7,91 @@
   {
     "name": "BetterCrewlink",
     "description": "与 Crewlink 兼容的语音聊天模组",
-    "repo": "OhMyMod/BetterCrewlink"
+    "repo": "OhMyGuus/BetterCrewLink"
   },
   {
     "name": "FinalSuspect",
     "description": "原版体验的终极《Among Us》模组",
     "repo": "XtremeWave/FinalSuspect"
+  },
+    {
+    "name": "Town-Of-Us-R",
+    "description": "Town-Of-Us-R 模组添加了大量新角色、修饰符和自定义游戏设置。",
+    "repo": "eDonnes124/Town-Of-Us-R"
+  },
+  {
+    "name": "AllTheRoles",
+    "description": "AllTheRoles 模组增加了许多新角色、游戏模式、地图设置和自定义装饰（如帽子和眼罩）。",
+    "repo": "Zeo666/AllTheRoles"
+  },
+  {
+    "name": "EndlessHostRoles",
+    "description": "Endless Host Roles 模组拥有超过400个角色/插件和12种游戏模式，仅需房主安装即可带领整个大厅游玩。",
+    "repo": "Gurge44/EndlessHostRoles"
+  },
+  {
+    "name": "NewMod",
+    "description": "NewMod 模组为 Among Us 添加了新的角色、修饰符、功能和游戏模式。",
+    "repo": "CallOfCreator/NewMod"
+  },
+  {
+    "name": "LasMonjas",
+    "description": "LasMonjas 模组拥有60个角色、10种修饰符、7种游戏机制，并提供自定义地图、模式、颜色、音乐等内容。",
+    "repo": "KiraYamato94/LasMonjas"
+  },
+  {
+    "name": "StellarRoles",
+    "description": "StellarRoles 模组添加了新角色、修饰符、设置和自定义装饰内容。",
+    "repo": "Mr-Fluuff/StellarRolesAU"
+  },
+  {
+    "name": "LotusContinued",
+    "description": "LotusContinued 是为房主设计的模组，支持自定义界面、热键、装饰和扩展功能。",
+    "repo": "Lotus-AU/LotusContinued"
+  },
+  {
+    "name": "BetterCrewLink",
+    "description": "BetterCrewLink 是一个开源的语音聊天模组，支持临近语音与距离衰减效果。",
+    "repo": "OhMyGuus/BetterCrewLink"
+  },
+  {
+    "name": "TheOtherRoles",
+    "description": "The Other Roles 模组增加了大量新角色、设置和自定义帽子，玩法丰富。",
+    "repo": "TheOtherRolesAU/TheOtherRoles"
+  },
+  {
+    "name": "Submerged",
+    "description": "Submerged 添加了一个全新的水下地图，包含多层结构、自定义任务和新破坏机制。",
+    "repo": "SubmergedAmongUs/Submerged"
+  },
+  {
+    "name": "LevelImposter",
+    "description": "LevelImposter 是一个地图编辑器模组，支持自定义地图下载、切换与在线创作。",
+    "repo": "DigiWorm0/LevelImposter"
+  },
+  {
+    "name": "Town-Of-Us-R",
+    "description": "原版 Town‑Of‑Us 的非官方续作，新增大量角色、修饰符和自定义设置，最近于 2025‑04‑27 发布 v5.3.1，保持活跃更新。",
+    "repo": "eDonnes124/Town-Of-Us-R"
+  },
+  {
+    "name": "Town-Of-Us-Twitch",
+    "description": "Town‑Of‑Us‑R 的非官方 Twitch 面向版本，专为直播优化，新增角色和皮肤，也持续跟随主线更新（最新 v7.2.2 发布于 2024‑3‑5）。",
+    "repo": "Xslash58/Town-Of-Us-Twitch"
+  },
+  {
+    "name": "TownOfUsReworked",
+    "description": "Town‑Of‑Us 基于多个分支重构版本，融合 Town‑Of‑Salem、Other Roles 等内容，功能丰富，目前支持最新 Among Us 2024‑10‑29 版本。",
+    "repo": "AlchlcDvl/TownOfUsReworked"
+  },
+  {
+    "name": "TownofHost-Enhanced (TOHE)",
+    "description": "Host‑only 模组 Town of Host 的增强版，提供聊天命令、自定义角色/模式/热键支持，截至 2025‑05‑01 发布 v2.2.1b5。",
+    "repo": "EnhancedNetwork/TownofHost-Enhanced"
+  },
+  {
+    "name": "TownOfImpostors",
+    "description": "Town‑Of‑Impostors 模组添加了新角色、修饰符、游戏模式和自定义选项，拥有 127 ⭐，适合私房局玩法。",
+    "repo": "Town-of-Impostors/TownOfImpostors"
   }
 ]
