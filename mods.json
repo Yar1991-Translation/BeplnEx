@@ -13,7 +13,7 @@
   },
   {
     "name": "FinalSuspect",
-    "description": "原版体验的终极《Among Us》模组\n⚠️此模组现版本会覆盖服务器列表",
+    "description": "⚠️此模组现版本会覆盖服务器列表",
     "repo": "XtremeWave/FinalSuspect",
     "fileMatch": "FinalSuspect.dll"
   },
