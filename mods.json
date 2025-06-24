@@ -85,25 +85,25 @@
   },
   {
     "name": "Town-Of-Us-R",
-    "description": "原版 Town‑Of‑Us 的非官方续作，新增大量角色、修饰符和自定义设置，最近于 2025‑04‑27 发布 v5.3.1，保持活跃更新。",
+    "description": "原版 Town‑Of‑Us 的非官方续作，新增大量角色、修饰符和自定义设置",
     "repo": "eDonnes124/Town-Of-Us-R",
     "fileMatch": "TownOfUsR.dll"
   },
   {
     "name": "Town-Of-Us-Twitch",
-    "description": "Town‑Of‑Us‑R 的非官方 Twitch 面向版本，专为直播优化，新增角色和皮肤，也持续跟随主线更新（最新 v7.2.2 发布于 2024‑3‑5）。",
+    "description": "Town‑Of‑Us‑R 的非官方 Twitch 面向版本，专为直播优化，新增角色和皮肤",
     "repo": "Xslash58/Town-Of-Us-Twitch",
     "fileMatch": "Town-Of-Us-Twitch.dll"
   },
   {
     "name": "TownOfUsReworked",
-    "description": "Town‑Of‑Us 基于多个分支重构版本，融合 Town‑Of‑Salem、Other Roles 等内容，功能丰富，目前支持最新 Among Us 2024‑10‑29 版本。",
+    "description": "Town‑Of‑Us 基于多个分支重构版本，融合 Town‑Of‑Salem、Other Roles 等内容，功能丰富",
     "repo": "AlchlcDvl/TownOfUsReworked",
     "fileMatch": "TownOfUsReworked.dll"
   },
   {
     "name": "TownofHost-Enhanced (TOHE)",
-    "description": "Host‑only 模组 Town of Host 的增强版，提供聊天命令、自定义角色/模式/热键支持，截至 2025‑05‑01 发布 v2.2.1b5。",
+    "description": "Host‑only 模组 Town of Host 的增强版，提供聊天命令、自定义角色/模式/热键支持",
     "repo": "EnhancedNetwork/TownofHost-Enhanced",
     "fileMatch": "TownOfHost-Enhanced.dll"
   },
